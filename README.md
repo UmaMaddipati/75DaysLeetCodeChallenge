@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -50,10 +53,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
