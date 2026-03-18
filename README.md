@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
