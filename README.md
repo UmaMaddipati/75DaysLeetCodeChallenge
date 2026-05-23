@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/UmaMaddipati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
